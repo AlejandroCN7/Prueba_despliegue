@@ -1,0 +1,6 @@
+1. Se ha creado un proyecto django vacío usando la plantilla de github https://github.com/heroku/heroku-django-template de tal forma que define infraestructura (Procfile y Pipfile) para desplegarlo correctamente con heroku.
+
+2. Me he abierto cuenta en heroku y he aprendido usarla para desplegar mi proyecto Django vacío de forma online y no como localhost (cosa que se puede hacer fácilmente desde la API de Django, pero no online).
+
+
+3. Quiero aprender a desarrollar mi API REST para dar servicio web usando DRF (Django-rest-framework) siguiendo un tutorial.
